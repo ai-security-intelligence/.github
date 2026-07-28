@@ -24,7 +24,15 @@ We develop open, versioned standards for measuring the observable surface area a
 
 - **Open Standards:** [aisecurityintelligence.com/pages/standards.html](https://aisecurityintelligence.com/pages/standards.html)
 - **Homepage:** [aisecurityintelligence.com](https://aisecurityintelligence.com)
-- **DOI archive:** cited on Zenodo under the AI Security Intelligence community.
+- **DOI archive:** [zenodo.org/communities/ai-security-intelligence](https://zenodo.org/communities/ai-security-intelligence)
+
+## Citable records
+
+| Standard | Concept DOI (always latest) | Current version |
+|---|---|---|
+| **AI Exposure Standard (AIES)** | [`10.5281/zenodo.21633109`](https://doi.org/10.5281/zenodo.21633109) | [v1.0](https://doi.org/10.5281/zenodo.21633110) — July 14, 2026 |
+
+Cite the **concept DOI** for a persistent reference that resolves to the latest version; cite a **version DOI** to pin a citation to a specific edition.
 
 ## License
 
